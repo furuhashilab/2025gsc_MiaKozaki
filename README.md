@@ -9,7 +9,7 @@
 ナイターとデーゲームの試合前後における周辺回遊パターンの差を明らかにすることを目的とする。
 人流データと空間要因データ（飲食店の密度・営業時間、観光資源、広場・歩行空間など）を用いて、
 試合日と非試合日、ナイターとデーゲームの人流差を比較し、空間要因との関連を分析する。
-本研究により、時間帯や空間要因が回遊性に与える影響を把握し、都市・商業施策への具体的提言に資する知見を提供することを目指す。
+本研究により、時間帯や空間要因が回遊性（スタジアム到着前後に、500m以上離れた複数のPOIに滞在したかどうか）に与える影響を把握し、都市・商業施策への具体的提言に資する知見を提供することを目指す。
 
 This study focuses on the impact of professional baseball games on urban mobility, taking Yokohama Stadium as a case study.  
 The objective is to clarify the differences in surrounding mobility patterns before and after night games and day games.  
